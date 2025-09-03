@@ -32,7 +32,7 @@ A Streamlit-based application to generate quantitatively accurate optical tensor
 ### 🧩 Prerequisites
 
 Make sure you have the following installed:
-- Python ≥ 3.9
+- Python ≥ 3.11
 - `streamlit`, `pandas`, `numpy`, `matplotlib`, `seaborn`, `scipy`, `plotly`, `py3Dmol`, `natsort`, `psutil`, `numba`, `stmol`
 
 You can install dependencies using:
