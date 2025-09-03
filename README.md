@@ -83,6 +83,9 @@ arXiv:2509.01734 (2025). https://arxiv.org/abs/2509.01734
 
 Feel free to reach out for questions, feedback, or collaboration!
 
+Victor Murcia
+📧 victor.murcia@wsu.edu
+
 ## App Screenshots
 
 | ![](img/1.PNG)  | ![](img/2.PNG)  |
@@ -93,7 +96,3 @@ Feel free to reach out for questions, feedback, or collaboration!
 | ![](img/9.PNG)  | ![](img/10.PNG) |
 | ![](img/11.PNG) | ![](img/12.PNG) |
 | ![](img/13.PNG) |                 |
-
-
-Victor Murcia
-📧 victor.murcia@wsu.edu
